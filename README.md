@@ -144,7 +144,7 @@ This component diagram illustrates the architecture of our BookTable reservation
 
 
 ### UI Wireframes
-[Link to wireframes folder or embedded images]
+https://docs.google.com/document/d/1WtPXpdIT1JBMynCHtMv6XWKkus6AUzFtP7DfvX0yfrE/edit?usp=sharing
 
 ## XP Core Values
 Our team embraced the following XP Core Values throughout the project:
