@@ -5,11 +5,11 @@
 **Team Name**: Tech Trio
 
 **Team Members**:
-- [Team Member 1 Name]
+- [Mann Nada]
   - Areas of Contribution: Frontend UI/UX, Restaurant search functionality, Authentication system
-- [Team Member 2 Name]
+- [Aditya Rajpurohit]
   - Areas of Contribution: Restaurant Manager Dashboard, Backend API implementation, Database design
-- [Team Member 3 Name]
+- [Shruti Goyal]
   - Areas of Contribution: Admin Dashboard, Deployment configuration, Testing and quality assurance
 
 ## Project Overview
