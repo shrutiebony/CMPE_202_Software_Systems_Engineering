@@ -2,7 +2,7 @@
 # BookTable Application
 
 ## Team Information
-**Team Name**: Tech Tiro
+**Team Name**: Tech Trio
 
 **Team Members**:
 - [Team Member 1 Name]
