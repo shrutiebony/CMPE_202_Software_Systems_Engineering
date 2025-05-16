@@ -5,18 +5,19 @@
 **Team Name**: Tech Trio
 
 **Team Members**:
-- [*Shruti Goyal*]
+Team Member 1- [*Shruti Goyal*]
   - Areas of Contribution: Frontend UI/UX and Backend Implementations for all customers (Display a list of restaurants that have availability at the specified time, Cuisine type, Cost rating, Reviews and Ratings filter criteria, search functions, View Restaurant Reviews, booking a table, cancel booking, ), Frontend UI/UX and Backend Implementations Restaurant search functionality, , Frontend UI/UX and Backend Implementations for Admin Dashboard (Remove Restaurants, Approve new restaurants to be included, View Analytics Dashboard of Reservations for the last month)
-- [*Aditya Rajpurohit*]
+Team Member 2- [*Aditya Rajpurohit*]
   - Areas of Contribution: Backend API implementation and Front-end API implementation for Restaurant Manager Dashboard (Add a new listing, Add/Update name, address, contact info, Hours, Available booking times, table sizes
 , Add/update descriptions, Login as RestaurantManager), , Database design
-- [*Mann Nada*]
-  - Areas of Contribution: Authentication system (login, register), OAuth, Deployment configuration, Testing and quality assurance
+Team Member 3- [*Mann Nada*]
+  - Areas of Contribution: Authentication system (login, register), Deployment configuration, Testing and quality assurance, Documentation( Sprint Backlog, Project Journal)
 
 ## Project Overview
 BookTable is an end-to-end restaurant reservation application similar to OpenTable. The application allows customers to search for restaurants and make reservations, restaurant managers to manage their listings, and administrators to oversee the platform.
 
 ## Links
+- Our Original Repository for all commits: https://github.com/shrutiebony/CMPE_202_Software_Systems_Engineering/tree/main/Group_Project
 - [Project Journal](https://docs.google.com/document/d/1EjQj-mZ5t8NCFZjNkJTsHAGpv7AYtcZtDGQ5yq53YWc/edit?usp=sharing)
 - [Product & Sprint Backlog](https://docs.google.com/spreadsheets/d/1iD2uDq-CfOlZMXjbR0RR1-VTIMA1FaoHdvj7BhhbBGs/edit?usp=sharing)
 
