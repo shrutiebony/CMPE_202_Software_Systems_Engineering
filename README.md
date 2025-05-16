@@ -5,12 +5,12 @@
 **Team Name**: Tech Trio
 
 **Team Members**:
-Team Member 1- [*Shruti Goyal*]
+1) Team Member 1- [*Shruti Goyal*]
   - Areas of Contribution: Frontend UI/UX and Backend Implementations for all customers (Display a list of restaurants that have availability at the specified time, Cuisine type, Cost rating, Reviews and Ratings filter criteria, search functions, View Restaurant Reviews, booking a table, cancel booking, ), Frontend UI/UX and Backend Implementations Restaurant search functionality, , Frontend UI/UX and Backend Implementations for Admin Dashboard (Remove Restaurants, Approve new restaurants to be included, View Analytics Dashboard of Reservations for the last month)
-Team Member 2- [*Aditya Rajpurohit*]
+2) Team Member 2- [*Aditya Rajpurohit*]
   - Areas of Contribution: Backend API implementation and Front-end API implementation for Restaurant Manager Dashboard (Add a new listing, Add/Update name, address, contact info, Hours, Available booking times, table sizes
 , Add/update descriptions, Login as RestaurantManager), , Database design
-Team Member 3- [*Mann Nada*]
+3) Team Member 3- [*Mann Nada*]
   - Areas of Contribution: Authentication system (login, register), Deployment configuration, Testing and quality assurance, Documentation( Sprint Backlog, Project Journal)
 
 ## Project Overview
