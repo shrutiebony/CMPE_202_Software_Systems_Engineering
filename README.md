@@ -5,12 +5,12 @@
 **Team Name**: Tech Trio
 
 **Team Members**:
-- [Mann Nada]
-  - Areas of Contribution: Frontend UI/UX, Restaurant search functionality, Authentication system
-- [Aditya Rajpurohit]
-  - Areas of Contribution: Restaurant Manager Dashboard, Backend API implementation, Database design
 - [Shruti Goyal]
-  - Areas of Contribution: Admin Dashboard, Deployment configuration, Testing and quality assurance
+  - Areas of Contribution: Frontend UI/UX and Backend Implementations for all customers, Frontend UI/UX and Backend Implementations Restaurant search functionality, , Frontend UI/UX and Backend Implementations for Admin Dashboard
+- [Aditya Rajpurohit]
+  - Areas of Contribution: Backend API implementation and Front-end API implementation for Restaurant Manager Dashboard, , Database design
+- [Mann Nada]
+  - Areas of Contribution: Authentication system, OAuth, Deployment configuration, Testing and quality assurance
 
 ## Project Overview
 BookTable is an end-to-end restaurant reservation application similar to OpenTable. The application allows customers to search for restaurants and make reservations, restaurant managers to manage their listings, and administrators to oversee the platform.
